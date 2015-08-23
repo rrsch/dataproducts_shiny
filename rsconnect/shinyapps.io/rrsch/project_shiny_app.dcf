@@ -1,0 +1,6 @@
+name: project_shiny_app
+account: rrsch
+server: shinyapps.io
+bundleId: 249416
+url: https://rrsch.shinyapps.io/project_shiny_app
+when: 1440365200.36071
